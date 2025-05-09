@@ -1,10 +1,10 @@
-<h2 align="left">Hi, I'am Wai Yan Phyo Oo aka Derek Valeska and I'm a full-stack developer.</h2>
+<h1 align="center">Hi 👋, I'm Wai Yan Phyo Oo aka Derek Valeska</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Based in Myanmar</h3>
 
-###
+<p align="center">
+  🚧 My GitHub is a work in progress — I’m currently building and learning in public.  
+</p>
 
-<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -107,3 +107,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waiyanphyooo21/profile/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/waiyanphyooo21/profile/output/github-snake.svg" />
 </picture>
+
+### 📌 Note
+
+> I don't have many public repositories yet, but I'm actively working on projects and learning every day.  
+> This GitHub will grow with time — stay tuned!
+
+###
