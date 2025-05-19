@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | Based in Myanmar</h3>
 
 <p align="center">
-  🚧 My GitHub is a work in progress — I’m currently building and learning in public.  
+  🚧 My GitHub is a work in progress — I’m currently building and learning.  
 </p>
 
 
