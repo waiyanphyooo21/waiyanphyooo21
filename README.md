@@ -35,7 +35,7 @@
 
 ### 📌 Note
 
-> I don't have many public repositories yet, but I'm actively working on projects and learning every day.  
+> I'm actively working on projects and learning every day.  
 > This GitHub will grow with time — stay tuned!
 
 ###
