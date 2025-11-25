@@ -1,7 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Wai Yan Phyo Oo aka Derek Valeska</h1>
-<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=600&lines=Full-Stack+Developer++%7C+Based+in+Myanmar" alt="Typing SVG" /></a></h3>
-
-###
+<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=600&lines=Full-Stack+Developer++%7C+Based+in+Bangkok" alt="Typing SVG" /></a></h3>
+<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=600&lines=Code2Career+Hackathon+2025+2nd+Runner-Up" alt="Typing SVG" /></a></h3>
 
 <div align="left">
 </div>
@@ -29,7 +28,7 @@
 
 ### 📌 Note
 
-> I'm actively working on projects and learning every day.  
-> This GitHub will grow with time — stay tuned!
+> I am actively seeking new opportunities and am ready to contribute to your team.
+> Have a project in mind? Reach out to me directly at **[dm@waiyanphyooo.online](mailto:dm@waiyanphyooo.online)**.
 
 ###
